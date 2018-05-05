@@ -1,5 +1,5 @@
-##Learning Haskell
+## Learning Haskell
 
-####Resources
+#### Resources
 
 Learning Haskell Programming by Hakim Cassimally
